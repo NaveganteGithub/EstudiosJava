@@ -1,4 +1,4 @@
-package conceptos.paso2_Avanzados.concepto03_Seguridad_Cifrados.cifrar_texto.cifrado_hash;
+package cifradoJava.cifrado_hash;
 
 import java.math.BigInteger;
 import java.nio.charset.StandardCharsets;

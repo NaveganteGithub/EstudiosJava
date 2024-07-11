@@ -1,4 +1,4 @@
-package conceptos.paso2_Avanzados.concepto03_Seguridad_Cifrados.cifrar_texto.cifrado_sincrono;
+package cifradoJava.cifrado_sincrono;
 
 import java.math.BigInteger;
 

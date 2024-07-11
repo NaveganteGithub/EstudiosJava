@@ -1,4 +1,4 @@
-package conceptos.paso1_Basicos.concepto09_POO.concepto01_Basico.explicacion_documentada;
+package concepto09_POO.concepto01_Basico.explicacion_documentada;
 
 import java.util.Calendar;
 import java.util.GregorianCalendar;
