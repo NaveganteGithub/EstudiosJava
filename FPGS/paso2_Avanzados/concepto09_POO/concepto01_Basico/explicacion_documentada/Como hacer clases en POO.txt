@@ -1,0 +1,35 @@
+Clase controladora --> La que tiene el metodo Main
+Clase no controladora --> Cualquiera que no tenga el metodo Main
+
+
+1º Se crea la clase no controladora (Sin Main)
+2º Se le asigna las propiedades, metodos y objetos
+3º Se programa los metodos de la clase no controladora
+4º Se instancia en el metodo Main la clase no controladora
+5º Podemos utilizar los metodos de la clase no controladora
+en el Main utilizando instanciando la clase con controladora,
+como se instancia
+
+	Estructura
+		Vehiculo object = new Vehiculo();
+
+	Explicacion
+		Vehiculo 	object 	  	= 	  new 	Vehiculo();
+		-------- 	------			  --- 	----------
+	  Tipo de clase   Nombre de Objeto  	    Instancia   Constructor
+	     ---------------------------    	    ----------------------
+			  5.1º			             5.2º
+
+	5.1º Declaramos el objeto
+	5.2º Instanciamos el constructor
+
+6º A partir de aqui podemos hacer mezclas de paradigmas
+7º Refactorizar y mejorar la eficiencia del codigo
+
+Diferencia entre clase y objeto
+	Objeto : elemento que va a tener propiedades (o atributos), y comportamiento (o metodos) ya definidos
+	Clase : 
+		Definicion 1; un tipo de dato que por ser ese tipo de dato podra hacer unas cosas u otras
+		Definicion 2; es una plantilla o prototipo de objeto, es decir, una clase es una plantilla
+		para crear (o definir) un objeto
+		https://filosofia.co/preguntas/diferencia-entre-clase-y-objeto-en-java/
