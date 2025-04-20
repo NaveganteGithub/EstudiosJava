@@ -1,3 +1,0 @@
-module ManejarImagenes {
-	requires java.desktop;
-}
